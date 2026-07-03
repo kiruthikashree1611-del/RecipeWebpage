@@ -50,8 +50,4 @@ Recipe-Webpage/
 
 Kiruthika Shree
 
-Computer Science Engineering Student
-
----
-
 Thank you for viewing this Recipe Webpage project!
